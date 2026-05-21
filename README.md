@@ -1,9 +1,5 @@
 **Lab 06: Data Exfiltration & Persistent Access**
 
-Cybersecurity Lab Report
-
-Student: Tandinzam  |  Date: May 19, 2026  |  Environment: Kali Linux vs Metasploitable2
-
 # **Part A — Initial Access**
 
 ## **Task 1: Network Discovery**
